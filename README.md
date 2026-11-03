@@ -33,7 +33,7 @@
 Большая часть — **моды** для Claude Code. Ставятся двумя командами прямо в Claude Code:
 
 ```
-/plugin marketplace add filosofzem-debug/dream-and-build
+/plugin marketplace add dream-and-build/dream-and-build
 /plugin install usage-meter@dream-and-build
 ```
 
@@ -67,6 +67,6 @@ I'm not a programmer. Every tool here started as a spoken wish to Claude Code �
 - 🔁 **resume-after-limit** — out of usage? Keep writing tasks; sessions continue on their own when the limit comes back.
 - ❓ **sessions-attention-watch** — flags sessions waiting for you.
 
-Install in Claude Code: `/plugin marketplace add filosofzem-debug/dream-and-build`, then `/plugin install usage-meter@dream-and-build` (or `project-card`, `move-reminder`, `features-board`). Drafts from real life — some paths and Russian UI labels are hard-coded; Claude will adapt them for you.
+Install in Claude Code: `/plugin marketplace add dream-and-build/dream-and-build`, then `/plugin install usage-meter@dream-and-build` (or `project-card`, `move-reminder`, `features-board`). Drafts from real life — some paths and Russian UI labels are hard-coded; Claude will adapt them for you.
 
 **Dream & Build** — *AI is the new phone.*
