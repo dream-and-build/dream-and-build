@@ -1,0 +1,10 @@
+{
+  "name": "dream-and-build",
+  "owner": { "name": "Dream & Build" },
+  "plugins": [
+    { "name": "usage-meter", "source": "./usage-meter", "description": "Заряд лимитов, время до пополнения, расход задачи и вкладки, цена проекта" },
+    { "name": "project-card", "source": "./project-card", "description": "Карточка проекта справа: о чём он, стадии, планы и идеи" },
+    { "name": "move-reminder", "source": "./move-reminder", "description": "Полоса краснеет, когда долго сидишь, и предлагает разминку" },
+    { "name": "features-board", "source": "./features-board", "description": "Панель со списком фич справа от чата" }
+  ]
+}

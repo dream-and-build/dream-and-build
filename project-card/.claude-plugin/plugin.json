@@ -1,0 +1,1 @@
+{ "name": "project-card", "version": "0.1.0", "description": "Панель справа: карточка проекта — о чём он, стадии, что сейчас, планы и идеи", "types": "./types/index.d.ts" }
